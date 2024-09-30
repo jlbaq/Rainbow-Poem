@@ -1,8 +1,11 @@
-Tutorial
+The Rainbow
 
-wahooo
+Red
+Orange
+Yellow
+Green
+Blue
+Indigo
+Violet
 
-I love git
-
-
-I no longer love Git
+These are the colors of the rainbow.
